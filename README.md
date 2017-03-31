@@ -80,6 +80,6 @@ Plotting the data.
     lines(volest2, type="l",col="red")
     lines(volest3, type="l",col="blue")
 
-![](Assignment11HTML_files/figure-markdown_strict/Plot-1.png)
+![](MSDS6306Assignment11/Plot-1.png)
 
     print.eval = TRUE
